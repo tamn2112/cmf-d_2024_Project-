@@ -1,7 +1,7 @@
 # Pilly 
 
-## Pill/Medication Tracker Overview
-+ Welcome to the Medication Tracker project! This application is designed to help users manage their medications effectively by providing a convenient way to track medication details, dosage schedules, and symptoms. This README file will guide you through the features, setup, and usage of the application.
+## About Pilly
++ Welcome to the Pilly, a medication tracker project app! This application is designed to help users manage their medications effectively by providing a convenient way to track medication details, dosage schedules, and symptoms. This README file includes the features, setup, and usage of the application.
 
 ## Features 
 

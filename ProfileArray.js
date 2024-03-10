@@ -48,11 +48,6 @@ class ProfileArray {
     removeProfile(profile) {
         this.profiles.pop(profile);
     }
-
-
-
-    
-
 }
 
 module.exports = ProfileArray;

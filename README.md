@@ -23,7 +23,7 @@ https://www.figma.com/proto/Ytlajbxfj1NCoFvZmnXKgE/Pilly?type=design&node-id=69-
 ### Symptom Duration Recording
 + The application records the duration of symptoms, allowing users to monitor the effectiveness of their medications over time.
   
-### Setup
+## Setup
 1. Prerequisites
    + Having JSNode, VSCode and JavaScript installed in your local machine 
 

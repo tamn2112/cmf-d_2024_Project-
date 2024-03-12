@@ -25,7 +25,7 @@ https://www.figma.com/proto/Ytlajbxfj1NCoFvZmnXKgE/Pilly?type=design&node-id=69-
   
 ## Setup
 1. Prerequisites
-   + Having JSNode, VSCode and JavaScript installed in your local machine 
+  + Having JSNode, VSCode and JavaScript installed in your local machine 
 
 3. Clone the repository to your local machine
   + git clone

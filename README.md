@@ -3,6 +3,9 @@
 ## About Pilly
 + Welcome to the Pilly, a medication tracker project app! This application is designed to help users manage their medications effectively by providing a convenient way to track medication details, dosage schedules, and symptoms. This README file includes the features, setup, and usage of the application.
 
+## Prototype - Created with Figma 
+https://www.figma.com/proto/Ytlajbxfj1NCoFvZmnXKgE/Pilly?type=design&node-id=69-3348&t=kK6k5Ga5w3B6gbMr-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=10%3A3&mode=design
+
 ## Features 
 
 ### User Profile Creation
@@ -22,9 +25,11 @@
   
 ### Setup
 1. Prerequisites
+   + Having JSNode, VSCode and JavaScript installed in your local machine 
 
-2. Clone the repository to your local machine:
-
+3. Clone the repository to your local machine
+  + git clone
+  + git pull 
 
 
 
